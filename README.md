@@ -1,4 +1,7 @@
+
 🚀 Özellikler
+
+
 ✅ Geri Sayım Timer'ı – Oyun 10 saniye sürer, süre bitince otomatik olarak durur.
 
 
